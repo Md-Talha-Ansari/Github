@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="user_list_title">Github Users List</string>
+    <string name="network_error">Network error occurred. Please try again.</string>
+    <string name="unknown_error">Unknown Error occurred. Please try again.</string>
+    <string name="rate_limit_exceeded">You have reached limit of requests. Will retry again in %s minutes and %s seconds.</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="close">CLOSE</string>
+    <string name="user_not_found">Cannot find requested user.</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="public_repos">Public Repos</string>
+    <string name="bio">Bio :</string>
+    <string name="public_gists">Public Gists</string>
+    <string name="blog">Blogs</string>
+    <string name="twitter_url">https://twitter.com/%s</string>
+    <string name="twitter">Twitter</string>"
+</resources>
